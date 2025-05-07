@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Raligo
-- 👀 I’m interested in AI programming
-- 🌱 I’m currently learning python and can call myself a rookie :)
+- 👀 interested in AI programming
+- 🌱 currently focused on uni courses
 - 📫 How to reach me :aliragheb2003@gmail.com
 - PRO NOUNS: R - G
-- ⚡ Fun fact: If you are good at your work,Im gonna be better eventually ;)
 
 <!---
 Raligo/Raligo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
